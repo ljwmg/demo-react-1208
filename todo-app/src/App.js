@@ -7,7 +7,7 @@ const App = () => {
   const [todos, setTodos] = useState([
     {
       id: 1,
-      text: '리액트의 기초 알아보기',
+      text: '리액트의 기초',
       checked: true,
     },
     {
